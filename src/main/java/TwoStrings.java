@@ -25,6 +25,6 @@ public class TwoStrings {
         System.out.println(substring_count);
 
     }
-}   
+}
 
 
