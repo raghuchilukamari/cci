@@ -1,0 +1,26 @@
+[
+  {
+    "first_name": "Ford",
+    "last_name": "Prefect",
+    "age": 5000,
+    "id": 1
+  },
+  {
+    "first_name": "Zaphod",
+    "last_name": "Beeblebrox",
+    "age": 999,
+    "id": 2
+  },
+  {
+    "first_name": "Arthur",
+    "last_name": "Dent",
+    "age": 42,
+    "id": 3
+  },
+  {
+    "first_name": "Trillian",
+    "last_name": "Astra",
+    "age": 1234,
+    "id": 4
+  }
+]
